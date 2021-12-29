@@ -1,0 +1,32 @@
+{
+  "name": "bootstrapbusinesspage",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "ie >= 11"
+  ],
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
+    "bootstrap": "^5.1.3",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "sass": "^1.45.1"
+  },
+  "devDependencies": {
+    "eslint": "8.5.0",
+    "eslint-config-next": "12.0.7",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-preset-env": "^7.1.0"
+  }
+}
