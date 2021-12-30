@@ -20,9 +20,9 @@ function Header() {
         </button>
         <div className='collapse navbar-collapse' id='navbarCollapse'>
           <ul className='navbar-nav me-auto'>
-            <li className='nav-item active'>
+            <li className='nav-item'>
               <Link href={'/'}>
-                <a className='nav-link active' aria-current='page'>
+                <a className='nav-link' aria-current='page'>
                   Home
                 </a>
               </Link>

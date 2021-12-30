@@ -11,7 +11,7 @@ function Services() {
       </Head>
 
       <div className='container my-1 my-sm-3'>
-        <h2 className='text-center mb-sm-2 display-1'>Our services</h2>
+        <h1 className='text-center mb-sm-2 display-1'>Our services</h1>
 
         <div className='row mb-4 align-items-center flex-md-row-reverse'>
           <Service imgPath={'/600x450.png'} serviceHeading={'Service #1'} />
