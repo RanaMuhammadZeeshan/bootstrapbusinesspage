@@ -19,7 +19,7 @@ function Footer() {
             <Followus />
           </div>
           <div className='col-12 col-sm-6 col-md-3'>
-            <OurLocation />
+            <OurLocation heading={'Our Location'} />
           </div>
         </div>
         <ul className='list-inline mt-2 mb-0 text-center'>

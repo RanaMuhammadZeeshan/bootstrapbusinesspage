@@ -1,10 +1,10 @@
 import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons'
 import LinkHelper from './linkHelper'
 
-function OurLocation() {
+function OurLocation({ heading }) {
   return (
     <>
-      <h2>Our location</h2>
+      <h2>{heading}</h2>
       <address>
         <strong>Company Name</strong>
         <br />
